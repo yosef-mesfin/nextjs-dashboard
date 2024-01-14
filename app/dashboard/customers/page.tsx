@@ -1,6 +1,4 @@
-import React from 'react';
-
-const Customers = () => {
+const Customers = async () => {
   return <div>Customers</div>;
 };
 
